@@ -1,4 +1,5 @@
-n = 5
+n = 25
+
 for i in range(n):
     for j in range(i):
         print('* ', end="")
